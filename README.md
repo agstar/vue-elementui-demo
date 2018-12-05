@@ -1,10 +1,7 @@
-# vue-admin-template
+# vue-elementui-demo
 
-> A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
+> a vue elementui demo based on vue-admin-template
 
-**Live demo:** http://panjiachen.github.io/vue-admin-template
-
-[中文文档](https://github.com/PanJiaChen/vue-admin-template/blob/master/README-zh.md)
 
 ## Build Setup
 
@@ -25,4 +22,3 @@ npm run build
 npm run build --report
 ```
 
-a vue-elementui demo based on vue-admin-template
